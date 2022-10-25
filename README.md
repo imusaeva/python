@@ -13,6 +13,6 @@ To execute python script :
 ```
 python3 name_of_the_file.py
 ```
-To learn more python read this book [Python]https://python101.pythonlibrary.org/
+To learn more python read this book https://python101.pythonlibrary.org/
 
 Happy codding :)
